@@ -26,15 +26,17 @@ Built a Random Forest regression model to predict retail sales using the Global 
 
 ##  Education
 
-**Master of Business Administration (MBA) – Business Analytics (Pursuing)**
+**Master of Business Administration (MBA) – Business Analytics (Pursuing)**  
 Symbiosis
 
-**Data Science & Data Analytics**
+**Data Science & Data Analytics**  
 Ducat School of AI
 
-**Bachelor of Business Administration (BBA)**
-Guru Gobind Singh Indraprastha University
+**Bachelor of Business Administration (BBA)**  
+Guru Gobind Singh Indraprastha Universit
 
+##  Connect with Me
 
-
-* GitHub: [avi206](https://github.com/avi206)
+- [LinkedIn](https://www.linkedin.com/in/avinash-madhu-847429203)
+- [GitHub](https://github.com/avi206)
+- Email: avinashmadhu2004@gmail.com

@@ -14,13 +14,13 @@ I'm an aspiring Data Analyst with a background in Business Administration and Da
 
 ##  Featured Projects
 
-###  E-Commerce Sales Analysis
+###  [E-Commerce Sales Analysis](https://github.com/avi206/SQL-Ecommerce-Analysis)
 
 Analyzed e-commerce sales data using SQL to explore revenue, customers, products, and profitability.
 
 **Tools:** MySQL, SQL
 
-###  Superstore Sales Forecasting
+###  [Superstore Sales Forecasting](https://github.com/avi206/Superstore-Sales-Forecasting)
 
 Built a machine learning project using the Superstore dataset to analyze data and forecast sales.
 

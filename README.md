@@ -20,11 +20,11 @@ Analyzed e-commerce sales data using SQL to explore revenue, customers, products
 
 **Tools:** MySQL, SQL
 
-###  [Superstore Sales Forecasting](https://github.com/avi206/Superstore-Sales-Forecasting)
+### [Superstore Sales Prediction](https://github.com/avi206/Superstore-Sales-Forecasting)
 
-Built a machine learning project using the Superstore dataset to analyze data and forecast sales.
+Built a Random Forest regression model to predict retail sales using the Global Superstore dataset.
 
-**Tools:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
+**Tools:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebookk
 
 ##  Education
 

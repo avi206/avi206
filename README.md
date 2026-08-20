@@ -1,16 +1,14 @@
 # Hi, I'm Avinash Madhu 
 
-### Aspiring Data Analyst | SQL | Python | Power BI
-
-I'm an aspiring Data Analyst with a background in Business Administration and Data Science. I enjoy working with data to find patterns, solve problems, and turn raw data into useful insights.
+I'm a Data Analyst focused on SQL, Python, Power BI, and business analytics. I enjoy turning raw data into actionable insights through data analysis, visualization, and machine learning.
 
 ##  Skills
 
-* **Languages:** SQL, Python
-* **Databases:** MySQL
-* **Data Analysis:** Excel, Pandas, NumPy
-* **Data Visualization:** Power BI, DAX
-* **Machine Learning:** Scikit-learn
+- **Programming:** SQL, Python
+- **Database:** MySQL
+- **Data Analysis:** Excel, Pandas, NumPy
+- **Data Visualization:** Power BI, DAX
+- **Machine Learning:** Scikit-learn
 
 ##  Featured Projects
 

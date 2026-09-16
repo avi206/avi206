@@ -1,41 +1,67 @@
-# Hi, I'm Avinash Madhu 
+# Avinash Madhu
 
-I'm a Data Analyst focused on SQL, Python, Power BI, and business analytics. I enjoy turning raw data into actionable insights through data analysis, visualization, and machine learning.
+### Data Analyst | Business Analytics
 
-##  Skills
+I turn raw data into clear, actionable business insights using **SQL, Python, Power BI, and Tableau**.
 
-- **Programming:** SQL, Python
-- **Database:** MySQL
-- **Data Analysis:** Excel, Pandas, NumPy
-- **Data Visualization:** Power BI, DAX
-- **Machine Learning:** Scikit-learn
+Currently pursuing an **MBA in Business Analytics** and building practical projects in data analysis, business intelligence, and predictive analytics.
 
-##  Featured Projects
+## About Me
 
-###  [E-Commerce Sales Analysis](https://github.com/avi206/SQL-Ecommerce-Analysis)
+- Based in Delhi, India
+- BBA graduate from Guru Gobind Singh Indraprastha University
+- Data Analyst Intern experience at S O Infotech
+- Interested in Data Analytics, Business Intelligence, and Business Analysis
 
-Analyzed e-commerce sales data using SQL to explore revenue, customers, products, and profitability.
+## Technical Skills
 
-**Tools:** MySQL, SQL
+| Area | Tools |
+|---|---|
+| Programming & Analysis | Python, Pandas, NumPy, SQL |
+| Databases | MySQL |
+| Business Intelligence | Power BI, DAX, Tableau, Excel |
+| Analytics | Data Cleaning, EDA, KPI Analysis, Data Visualization |
+| Predictive Analytics | Random Forest, Feature Engineering, Model Evaluation |
 
-### [Superstore Sales Prediction](https://github.com/avi206/Superstore-Sales-Forecasting)
+## Featured Projects
 
-Built a Random Forest regression model to predict retail sales using the Global Superstore dataset.
+### [SQL E-Commerce Analysis](https://github.com/avi206/SQL-Ecommerce-Analysis)
 
-**Tools:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebookk
+Analyzed e-commerce data using MySQL and Power BI to explore revenue, profit, customer behavior, product performance, and monthly sales trends.
 
-##  Education
+**Tools:** MySQL, SQL, Power BI
 
-**Master of Business Administration (MBA) – Business Analytics (Pursuing)**  
-Symbiosis
+### [Superstore Sales Forecasting](https://github.com/avi206/Superstore-Sales-Forecasting)
 
-**Data Science & Data Analytics**  
-Ducat School of AI
+Built a Random Forest regression workflow using the Global Superstore dataset, including data cleaning, EDA, feature engineering, model evaluation, and prediction-error analysis.
 
-**Bachelor of Business Administration (BBA)**  
-Guru Gobind Singh Indraprastha Universit
+**Tools:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
 
-##  Connect with Me
+## Experience
+
+**Data Analyst Intern — S O Infotech (P) Ltd., Noida**  
+July 2025 – March 2026
+
+**Human Resources Intern — BM Fintech Consulting Solutions, Delhi**  
+September 2024 – April 2025
+
+## Education
+
+**MBA — Business Analytics**  
+Symbiosis | Pursuing
+
+**BBA**  
+Guru Gobind Singh Indraprastha University | 2025
+
+## Certifications
+
+- Data Science & Data Analytics — Ducat School of AI
+- Deloitte Data Analytics Job Simulation — Forage
+- Google Analytics Certification
+- SEO Principles — Semrush Academy
+- Human Resource Management — Saylor Academy
+
+## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/avinash-madhu-847429203)
 - [GitHub](https://github.com/avi206)

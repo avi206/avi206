@@ -25,17 +25,12 @@ Currently pursuing an **MBA in Business Analytics** and building practical proje
 
 ## Featured Projects
 
-### [SQL E-Commerce Analysis](https://github.com/avi206/SQL-Ecommerce-Analysis)
+| Project | Focus | Evidence |
+|---|---|---|
+| [SQL E-Commerce Analysis](https://github.com/avi206/SQL-Ecommerce-Analysis) | Revenue, profitability, customer, product, and monthly-sales analysis using MySQL and Power BI | [Dashboard](https://github.com/avi206/SQL-Ecommerce-Analysis/blob/main/Dashboard.png) · [SQL queries](https://github.com/avi206/SQL-Ecommerce-Analysis/blob/main/queries.sql) |
+| [Superstore Sales Forecasting](https://github.com/avi206/Superstore-Sales-Forecasting) | Retail-sales analysis and a Random Forest baseline model, including feature engineering and prediction-error analysis | [Notebook](https://github.com/avi206/Superstore-Sales-Forecasting/blob/main/notebooks/superstore_forecasting.ipynb) · [Report](https://github.com/avi206/Superstore-Sales-Forecasting/blob/main/reports/Sales%20Forecasting%20using%20Machine%20Learning.docx) |
 
-Analyzed e-commerce data using MySQL and Power BI to explore revenue, profit, customer behavior, product performance, and monthly sales trends.
-
-**Tools:** MySQL, SQL, Power BI
-
-### [Superstore Sales Forecasting](https://github.com/avi206/Superstore-Sales-Forecasting)
-
-Built a Random Forest regression workflow using the Global Superstore dataset, including data cleaning, EDA, feature engineering, model evaluation, and prediction-error analysis.
-
-**Tools:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
+**Tools:** MySQL, SQL, Power BI, Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
 
 ## Experience
 
